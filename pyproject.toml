@@ -36,7 +36,7 @@ loguru = "^0.2.0"
 typeguard="^2.3.0"
 
 # load configs
-python-dotenv = "^0.10.1"
+python-dotenv = "^0.15.0"
 
 pytest = "^4.4.0"
 pytest-cov = "^2.6.1"
