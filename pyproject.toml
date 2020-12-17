@@ -27,7 +27,7 @@ python = "^3.7.1"
 
 # Testing libraries
 selenium = "^3.141.0"
-requests = "2.21.0"
+requests = "2.25.1"
 beautifulsoup4 = "^4.7.0"
 
 Pygments= "^2.3.0"
