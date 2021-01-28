@@ -53,7 +53,7 @@ jupyter = "^1.0.0"
 jupyterlab = "^0.35.0"
 
 # Travis libs
-pre-commit = "^1.15.1"
+pre-commit = "^2.10.0"
 
 [build-system]
 requires = ["poetry>=0.12"]
