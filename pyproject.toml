@@ -50,7 +50,7 @@ codecov = "^2.0.15"
 black = { version = "*", allows-prereleases = true }
 
 jupyter = "^1.0.0"
-jupyterlab = "^0.35.0"
+jupyterlab = "^3.0.6"
 
 # Travis libs
 pre-commit = "^1.15.1"
